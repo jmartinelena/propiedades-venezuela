@@ -1,0 +1,361 @@
+Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Estado Del Inmueble,Dormitorios,Total Baños,Baños Completos,Tipo De Estacionamiento,Puestos De Estacionamiento,Amoblado,Dormitorio De Servicio,País,Estado,Ciudad,Urbanización,Medios Baños
+85000,VE 23-26228,Apartamento,1 Nivel,140,Usado,3,3,3,Cubierto,4,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,0.0
+8000,VE 23-26225,Apartamento,1 Nivel,90,Usado,3,3,3,Cubierto,1,No,No,Venezuela,Zulia,Maracaibo,Avenida Goajira,0.0
+39500,VE 23-26222,Apartamento,1 Nivel,115,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Aragua,Maracay,La Romana,0.0
+280000,VE 23-26219,Apartamento,1 Nivel,197,Usado,5,4,4,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,La Tahona,0.0
+115000,VE 23-26218,Apartamento,1 Nivel,69,Usado,1,2,2,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+75000,VE 23-26217,Apartamento,1 Nivel,108,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Cafetal,0.0
+42000,VE 23-26216,Apartamento,1 Nivel,58,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,La Urbina,0.0
+185000,VE 23-26214,Apartamento,1 Nivel,127,Usado,3,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,La Boyera,0.0
+685000,VE 23-26208,Apartamento,Penthouse,254,Usado,3,6,4,Cubierto,3,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos de Las Mercedes,2.0
+32000,VE 23-26204,Apartamento,1 Nivel,56,Usado,2,1,1,Descubierto,1,Parcialmente,No,Venezuela,Miranda,Guatire,La Sabana,0.0
+27000,VE 23-26202,Apartamento,1 Nivel,75,Usado,2,2,2,Descubierto,2,Parcialmente,No,Venezuela,Carabobo,Valencia,Los Mangos,0.0
+350000,VE 23-26201,Apartamento,1 Nivel,359,Usado,4,5,4,Cubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,San Roman,1.0
+34900,VE 23-26200,Apartamento,1 Nivel,84,Usado,2,2,2,Descubierto,2,Si,No,Venezuela,Zulia,Maracaibo,Las Mercedes,0.0
+850,VE 23-26198,Apartamento,1 Nivel,82,Usado,2,2,1,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Santa Eduvigis,1.0
+89000,VE 23-26195,Apartamento,1 Nivel,114,Usado,3,3,3,Cubierto,2,No,No,Venezuela,Aragua,Maracay,El Bosque,0.0
+40000,VE 23-26193,Apartamento,1 Nivel,92,Usado,2,2,2,Cubierto,2,Si,No,Venezuela,Lara,Barquisimeto,Avenida Libertador,0.0
+88000,VE 23-26192,Apartamento,Duplex,179,Usado,3,3,3,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Florida,0.0
+130000,VE 23-26185,Apartamento,1 Nivel,253,Usado,3,4,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Florida,1.0
+60000,VE 23-26184,Apartamento,1 Nivel,73,Usado,2,1,1,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Las Palmas,0.0
+43000,VE 23-26180,Apartamento,1 Nivel,35,Usado,1,1,1,Ninguno,0,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,La Florida,0.0
+12500,VE 23-26178,Apartamento,1 Nivel,35,Usado,1,1,1,Cubierto,1,No,No,Venezuela,Miranda,Higuerote,Ciudad Balneario Higuerote,0.0
+50000,VE 23-26177,Apartamento,1 Nivel,112,Usado,3,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Marques,0.0
+22000,VE 23-26176,Apartamento,1 Nivel,117,Usado,3,4,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parque Central,1.0
+95000,VE 23-26169,Apartamento,1 Nivel,114,Usado,3,3,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,La Tahona,0.0
+180000,VE 23-26168,Apartamento,1 Nivel,118,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,La Castellana,0.0
+120000,VE 23-26167,Apartamento,1 Nivel,145,Usado,3,3,3,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+75000,VE 23-26165,Apartamento,1 Nivel,92,Usado,3,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de La Tahona,0.0
+67500,VE 23-26163,Apartamento,1 Nivel,99,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Santa Sofia,0.0
+400000,VE 23-26156,Apartamento,Planta Baja,280,Usado,3,3,2,Cubierto,3,Si,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,1.0
+750,VE 23-26155,Apartamento,1 Nivel,51,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+173000,VE 23-26154,Apartamento,1 Nivel,230,Usado,4,4,4,Cubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Altamira Sur,0.0
+580000,VE 23-26152,Apartamento,Penthouse,424,Usado,4,5,5,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas de Las Mercedes,0.0
+23000,VE 23-26151,Apartamento,1 Nivel,70,Obra Gris,2,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Encantado,0.0
+16000,VE 23-26149,Apartamento,1 Nivel,64,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Miranda,Guarenas,La Vaquera,0.0
+1300,VE 23-26148,Apartamento,1 Nivel,109,Usado,3,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Santa Ines,0.0
+420000,VE 23-26141,Apartamento,Penthouse,662,Usado,4,6,5,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Alta Florida,1.0
+42500,VE 23-26140,Apartamento,1 Nivel,215,Usado,5,5,5,Cubierto,2,Si,No,Venezuela,Aragua,Maracay,Los Caobos,0.0
+115000,VE 23-26135,Apartamento,1 Nivel,112,Usado,2,3,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de La Tahona,0.0
+11000,VE 23-26127,Apartamento,1 Nivel,42,Usado,2,1,1,Cubierto,1,Parcialmente,No,Venezuela,Aragua,Maracay,Madre Maria,0.0
+30000,VE 23-26126,Apartamento,1 Nivel,57,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Aragua,Maracay,San Jacinto,0.0
+25000,VE 23-26123,Apartamento,1 Nivel,72,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Miravila,0.0
+90000,VE 23-26121,Apartamento,1 Nivel,119,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,La Union,0.0
+32000,VE 23-26120,Apartamento,1 Nivel,55,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,El Encantado,0.0
+67000,VE 23-26118,Apartamento,1 Nivel,97,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Terrazas del Club Hipico,0.0
+170000,VE 23-26107,Apartamento,Duplex,240,Usado,2,3,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Loma Linda,0.0
+17000,VE 23-26094,Apartamento,1 Nivel,64,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Miravila,0.0
+21500,VE 23-26093,Apartamento,1 Nivel,115,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Carabobo,Valencia,Prebo I,0.0
+55000,VE 23-26092,Apartamento,1 Nivel,91,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,San Bernardino,0.0
+115000,VE 23-26090,Apartamento,1 Nivel,156,Usado,3,3,3,Descubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Chuao,0.0
+15750,VE 23-26085,Apartamento,1 Nivel,50,Usado,1,1,1,Descubierto,1,No,No,Venezuela,Aragua,Intercomunal Maracay-turmero,La Providencia,0.0
+45000,VE 23-26082,Apartamento,1 Nivel,69,Usado,2,1,1,Ninguno,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Los Cedros,0.0
+109500,VE 23-26075,Apartamento,1 Nivel,91,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,0.0
+750,VE 23-26074,Apartamento,1 Nivel,124,Usado,3,3,3,Descubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,El Hatillo,0.0
+95000,VE 23-26073,Apartamento,1 Nivel,133,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas de Prados del Este,0.0
+1300,VE 23-26072,Apartamento,1 Nivel,150,Usado,4,4,4,Cubierto,2,Si,No,Venezuela,Anzoategui,Lecheria,Complejo Turistico EL Morro,0.0
+240000,VE 23-26070,Apartamento,1 Nivel,206,Usado,4,3,3,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Zona Este,0.0
+110000,VE 23-26065,Apartamento,1 Nivel,148,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,0.0
+350000,VE 23-26064,Apartamento,1 Nivel,269,Usado,3,3,3,Cubierto,4,No,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+64800,VE 23-26062,Apartamento,1 Nivel,86,Usado,1,2,2,Cubierto,1,Si,No,Venezuela,Anzoategui,Lecheria,Complejo Turistico EL Morro,0.0
+650000,VE 23-26061,Apartamento,Duplex,298,Usado,3,4,3,Cubierto,4,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos de Las Mercedes,1.0
+65000,VE 23-26060,Apartamento,1 Nivel,80,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Las Acacias,0.0
+14000,VE 23-26058,Apartamento,1 Nivel,96,Usado,3,2,0,Cubierto,1,No,No,Venezuela,Aragua,Maracay,Zona Centro,0.0
+42000,VE 23-26052,Apartamento,1 Nivel,93,Usado,2,1,1,Descubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,El Llanito,0.0
+109000,VE 23-26045,Apartamento,1 Nivel,158,Usado,4,4,4,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+9000,VE 23-26042,Apartamento,1 Nivel,122,Usado,3,2,2,Descubierto,2,No,No,Venezuela,Zulia,Maracaibo,La Florida,0.0
+58000,VE 23-26038,Apartamento,1 Nivel,74,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Tahona,0.0
+600,VE 23-26036,Apartamento,1 Nivel,74,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Tahona,0.0
+53000,VE 23-26035,Apartamento,1 Nivel,102,Usado,3,2,1,Descubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Las Acacias,1.0
+1250,VE 23-26034,Apartamento,1 Nivel,138,Usado,3,3,2,Cubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,1.0
+130000,VE 23-26030,Apartamento,1 Nivel,185,Usado,4,4,3,Cubierto,4,No,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,1.0
+35000,VE 23-26027,Apartamento,1 Nivel,94,Usado,4,2,1,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Valle,1.0
+24000,VE 23-26024,Apartamento,1 Nivel,94,Usado,2,1,1,Cubierto,1,Si,No,Venezuela,Aragua,Maracay,Urbanizacion El Centro,0.0
+90000,VE 23-26023,Apartamento,1 Nivel,98,Usado,2,3,2,Cubierto,2,Parcialmente,No,Venezuela,Vargas,Parroquia Naiguata,Camuri Grande,1.0
+135000,VE 23-26022,Apartamento,1 Nivel,250,Usado,3,5,4,Cubierto,3,Parcialmente,Si,Venezuela,Nueva Esparta,Margarita,Costa Azul,1.0
+450000,VE 23-26021,Apartamento,Penthouse,530,Usado,6,6,4,Cubierto,4,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Dos Caminos,2.0
+27800,VE 23-26020,Apartamento,1 Nivel,63,Usado,2,2,2,Descubierto,2,Parcialmente,No,Venezuela,Nueva Esparta,Margarita,La Asuncion,0.0
+120,VE 23-26015,Apartamento,1 Nivel,91,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Zulia,Maracaibo,Fuerzas Armadas,0.0
+180000,VE 23-26009,Apartamento,Penthouse,130,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas de La Lagunita,0.0
+17500,VE 23-26008,Apartamento,1 Nivel,82,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Lara,Barquisimeto,Parroquia Juan de Villegas,0.0
+90000,VE 23-26007,Apartamento,1 Nivel,191,Usado,3,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Las Esmeraldas,0.0
+25000,VE 23-26004,Apartamento,1 Nivel,69,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Miranda,Higuerote,Higuerote,0.0
+3500,VE 23-26003,Apartamento,Penthouse,328,Usado,4,5,4,Cubierto,3,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas de La Alameda,1.0
+30000,VE 23-26002,Apartamento,1 Nivel,61,Usado,1,2,2,Cubierto,1,No,No,Venezuela,Vargas,Parroquia Caraballeda,Caribe,0.0
+55800,VE 23-26001,Apartamento,1 Nivel,41,Usado,1,1,1,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+30000,VE 23-25996,Apartamento,1 Nivel,121,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Lara,Barquisimeto,Centro,0.0
+115000,VE 23-25994,Apartamento,1 Nivel,127,Usado,3,2,2,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,San Roman,0.0
+95000,VE 23-25993,Apartamento,1 Nivel,94,Usado,1,1,1,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+24500,VE 23-25987,Apartamento,1 Nivel,105,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Aragua,Maracay,Zona Centro,0.0
+27000,VE 23-25986,Apartamento,1 Nivel,80,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Aragua,Maracay,Base Aragua,0.0
+1700000,VE 23-25977,Apartamento,1 Nivel,327,Usado,3,5,4,Cubierto,4,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Las Mercedes,1.0
+90000,VE 23-25976,Apartamento,1 Nivel,97,Usado,2,2,2,Descubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Macaracuay,0.0
+60000,VE 23-25975,Apartamento,1 Nivel,105,Usado,3,2,2,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+40000,VE 23-25974,Apartamento,1 Nivel,91,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La California Norte,0.0
+35000,VE 23-25973,Apartamento,1 Nivel,127,Usado,4,3,3,Descubierto,2,Si,No,Venezuela,Miranda,Guarenas,Nueva Casarapa,0.0
+32000,VE 23-25972,Apartamento,1 Nivel,80,Usado,2,2,2,Descubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Llanito,0.0
+15000,VE 23-25971,Apartamento,1 Nivel,63,Usado,3,1,1,Cubierto,1,No,No,Venezuela,Miranda,Guatire,La Rosa,0.0
+17000,VE 23-25969,Apartamento,1 Nivel,125,Usado,3,3,3,Cubierto,1,Si,Si,Venezuela,Zulia,Maracaibo,Sabaneta,0.0
+35000,VE 23-25968,Apartamento,1 Nivel,101,Usado,3,2,2,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Baruta,0.0
+150,VE 23-25966,Apartamento,1 Nivel,1477,Usado,2,2,1,Descubierto,1,No,No,Venezuela,Bolivar,Ciudad Bolivar,La Sabanita,1.0
+28000,VE 23-25964,Apartamento,1 Nivel,47,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+750,VE 23-25963,Apartamento,1 Nivel,86,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Los Dos Caminos,0.0
+67900,VE 23-25961,Apartamento,1 Nivel,100,Obra Gris,2,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Oripoto,0.0
+500,VE 23-25960,Apartamento,1 Nivel,41,Usado,1,1,1,Descubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Vista Alegre,0.0
+67900,VE 23-25959,Apartamento,1 Nivel,100,Obra Gris,2,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Oripoto,0.0
+67900,VE 23-25958,Apartamento,1 Nivel,100,Obra Gris,2,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Oripoto,0.0
+34000,VE 23-25957,Apartamento,1 Nivel,60,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Encantado,0.0
+67900,VE 23-25955,Apartamento,1 Nivel,100,Obra Gris,2,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Oripoto,0.0
+22000,VE 23-25952,Apartamento,1 Nivel,78,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Miranda,Guarenas,La Vaquera,0.0
+190000,VE 23-25950,Apartamento,1 Nivel,202,Usado,4,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Cumbres de Curumo,0.0
+72000,VE 23-25946,Apartamento,1 Nivel,105,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Macaracuay,0.0
+1000,VE 23-25944,Apartamento,1 Nivel,50,Usado,1,1,1,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+700,VE 23-25942,Apartamento,1 Nivel,68,Usado,1,2,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Lomas de Bello Monte,1.0
+48000,VE 23-25940,Apartamento,1 Nivel,76,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Encantado,0.0
+25000,VE 23-25939,Apartamento,1 Nivel,63,Usado,2,1,1,Cubierto,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+55000,VE 23-25936,Apartamento,1 Nivel,118,Usado,3,3,3,Descubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de La California,0.0
+43000,VE 23-25934,Apartamento,1 Nivel,93,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Miranda,San Antonio de los Altos,La Rosaleda,0.0
+550,VE 23-25931,Apartamento,1 Nivel,103,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Lara,Barquisimeto,Nueva Segovia,0.0
+115000,VE 23-25930,Apartamento,1 Nivel,285,Usado,3,4,3,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,San Bernardino,1.0
+500,VE 23-25928,Apartamento,1 Nivel,104,Usado,3,2,2,Cubierto,0,Si,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+81000,VE 23-25927,Apartamento,1 Nivel,68,Usado,1,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+49000,VE 23-25926,Apartamento,1 Nivel,63,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Santa Fe Sur,0.0
+38000,VE 23-25924,Apartamento,1 Nivel,67,Usado,2,1,1,Cubierto,0,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+40000,VE 23-25923,Apartamento,1 Nivel,127,Usado,4,3,3,Cubierto,2,No,Si,Venezuela,Lara,Barquisimeto,Club Hipico Las Trinitarias,0.0
+155000,VE 23-25920,Apartamento,1 Nivel,147,Usado,3,4,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Alto Hatillo,1.0
+45000,VE 23-25917,Apartamento,1 Nivel,100,Usado,4,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,La Urbina,0.0
+65000,VE 23-25914,Apartamento,1 Nivel,101,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+2500,VE 23-25911,Apartamento,Duplex,138,Usado,1,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,La Castellana,0.0
+55000,VE 23-25909,Apartamento,1 Nivel,60,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Los Samanes,0.0
+12000,VE 23-25908,Apartamento,1 Nivel,102,Usado,4,2,2,Descubierto,1,No,No,Venezuela,Lara,Cabudare,La Mora,0.0
+145000,VE 23-25906,Apartamento,1 Nivel,152,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Tahona,0.0
+198000,VE 23-25905,Apartamento,1 Nivel,297,Usado,4,6,5,Cubierto,4,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Samanes,1.0
+182000,VE 23-25904,Apartamento,1 Nivel,170,Usado,3,2,2,Cubierto,3,No,No,Venezuela,Distrito Metropolitano,Caracas,El Cigarral,0.0
+155000,VE 23-25902,Apartamento,1 Nivel,137,Usado,2,3,2,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Samanes,1.0
+87000,VE 23-25891,Apartamento,1 Nivel,120,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Boleita Norte,0.0
+1900,VE 23-25890,Apartamento,1 Nivel,113,Usado,2,3,3,Cubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+255000,VE 23-25887,Apartamento,1 Nivel,92,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+300,VE 23-25885,Apartamento,1 Nivel,87,Usado,3,2,2,Descubierto,2,Parcialmente,Si,Venezuela,Lara,Barquisimeto,Centro,0.0
+6500,VE 23-25879,Apartamento,Duplex,330,Usado,6,8,7,Cubierto,4,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Valle Arriba,1.0
+45000,VE 23-25877,Apartamento,1 Nivel,101,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Aragua,Maracay,San Isidro,0.0
+350,VE 23-25875,Apartamento,1 Nivel,49,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Las Marias,0.0
+20000,VE 23-25873,Apartamento,1 Nivel,42,Usado,1,2,2,Cubierto,1,Parcialmente,No,Venezuela,Miranda,Higuerote,Agua Sal,0.0
+300000,VE 23-25871,Apartamento,Duplex,271,Usado,5,5,4,Cubierto,4,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,1.0
+15000,VE 23-25870,Apartamento,1 Nivel,97,Usado,3,2,2,Descubierto,1,Parcialmente,No,Venezuela,Carabobo,Valencia,Agua Blanca,0.0
+32000,VE 23-25868,Apartamento,1 Nivel,93,Usado,3,4,2,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Centro,2.0
+9000,VE 23-25867,Apartamento,1 Nivel,112,Usado,3,3,3,Ninguno,0,No,No,Venezuela,Aragua,La Victoria,Centro,0.0
+180000,VE 23-25866,Apartamento,1 Nivel,171,Usado,3,5,4,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,1.0
+19000,VE 23-25864,Apartamento,1 Nivel,78,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Carabobo,Municipio Naguanagua,La Granja,0.0
+500,VE 23-25861,Apartamento,1 Nivel,102,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Baruta,0.0
+31500,VE 23-25860,Apartamento,1 Nivel,82,Usado,2,2,2,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia Santa Teresa,0.0
+32000,VE 23-25856,Apartamento,1 Nivel,77,Usado,2,2,2,Cubierto,2,Si,No,Venezuela,Lara,Barquisimeto,Centro,0.0
+50000,VE 23-25855,Apartamento,1 Nivel,110,Usado,3,3,3,Ninguno,0,No,Si,Venezuela,Distrito Metropolitano,Caracas,La California Norte,0.0
+50000,VE 23-25851,Apartamento,1 Nivel,275,Usado,3,4,4,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Hacienda Las Marias,0.0
+70000,VE 23-25847,Apartamento,1 Nivel,112,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Manzanares,0.0
+40000,VE 23-25846,Apartamento,1 Nivel,78,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Aragua,Maracay,Base Aragua,0.0
+20000,VE 23-25845,Apartamento,1 Nivel,52,Usado,1,1,1,Descubierto,1,Parcialmente,No,Venezuela,Vargas,Parroquia Caraballeda,Los Corales,0.0
+40000,VE 23-25843,Apartamento,1 Nivel,97,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Club Hipico,0.0
+120000,VE 23-25840,Apartamento,1 Nivel,133,Usado,3,2,2,Cubierto,3,Parcialmente,No,Venezuela,Lara,Barquisimeto,Colinas Del Turbio,0.0
+6500,VE 23-25837,Apartamento,1 Nivel,62,Usado,3,1,1,Cubierto,1,Parcialmente,No,Venezuela,Falcon,Coro,La Velita,0.0
+180000,VE 23-25836,Apartamento,1 Nivel,57,Nuevo,1,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+37000,VE 23-25835,Apartamento,1 Nivel,80,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Carabobo,Valencia,La Trigaleña,0.0
+69000,VE 23-25831,Apartamento,1 Nivel,107,Usado,3,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Terrazas del Avila,0.0
+50000,VE 23-25828,Apartamento,1 Nivel,109,Obra Gris,3,2,2,Descubierto,2,No,No,Venezuela,Lara,Barquisimeto,Del Este,0.0
+232000,VE 23-25826,Apartamento,1 Nivel,192,Usado,3,3,3,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,0.0
+1100,VE 23-25822,Apartamento,1 Nivel,58,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,La Castellana,0.0
+90000,VE 23-25821,Apartamento,1 Nivel,148,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Recreo,0.0
+22000,VE 23-25820,Apartamento,1 Nivel,84,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Falcon,Coro,Centro,0.0
+6500,VE 23-25819,Apartamento,1 Nivel,50,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Miranda,Rio Chico,Los Canales de Rio Chico,0.0
+30000,VE 23-25816,Apartamento,1 Nivel,83,Usado,2,2,2,Descubierto,1,Parcialmente,No,Venezuela,Anzoategui,Barcelona,Nueva Barcelona,0.0
+12500,VE 23-25815,Apartamento,1 Nivel,38,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Miranda,Higuerote,Agua Sal,0.0
+110000,VE 23-25814,Apartamento,1 Nivel,75,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Santa Monica,0.0
+1400,VE 23-25808,Apartamento,Duplex,179,Usado,4,5,4,Cubierto,3,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Manzanares,1.0
+12000,VE 23-25804,Apartamento,1 Nivel,125,Usado,4,3,2,Descubierto,1,No,No,Venezuela,Zulia,Maracaibo,Valle Claro,1.0
+33000,VE 23-25803,Apartamento,1 Nivel,112,Usado,3,3,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia San Agustin,0.0
+14500,VE 23-25802,Apartamento,1 Nivel,89,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Petare,0.0
+170000,VE 23-25800,Apartamento,1 Nivel,410,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,0.0
+90000,VE 23-25796,Apartamento,1 Nivel,110,Usado,4,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,0.0
+65000,VE 23-25795,Apartamento,1 Nivel,136,Usado,4,3,3,Descubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,Montalban III,0.0
+64000,VE 23-25794,Apartamento,1 Nivel,126,Usado,3,2,2,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,Santa Monica,0.0
+35000,VE 23-25790,Apartamento,1 Nivel,75,Usado,2,2,2,Cubierto,1,Si,No,Venezuela,Falcon,Boca de Aroa,Boca de Aroa,0.0
+14000,VE 23-25789,Apartamento,1 Nivel,81,Usado,2,1,1,Descubierto,1,No,No,Venezuela,Lara,Barquisimeto,Centro,0.0
+60000,VE 23-25787,Apartamento,1 Nivel,135,Usado,3,3,3,Cubierto,2,No,No,Venezuela,Carabobo,Valencia,La Trigaleña,0.0
+49000,VE 23-25779,Apartamento,1 Nivel,101,Usado,2,3,3,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,El Marques,0.0
+95000,VE 23-25778,Apartamento,1 Nivel,148,Usado,3,3,2,Descubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,La Union,1.0
+270000,VE 23-25775,Apartamento,Multiples Niveles,204,Usado,4,5,4,Cubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Santa Fe Norte,1.0
+125000,VE 23-25771,Apartamento,1 Nivel,77,Obra Gris,2,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+25000,VE 23-25770,Apartamento,1 Nivel,92,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Centro,0.0
+450000,VE 23-25769,Apartamento,Duplex,402,Usado,3,5,4,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,1.0
+1400,VE 23-25766,Apartamento,1 Nivel,80,Usado,2,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+50000,VE 23-25765,Apartamento,1 Nivel,70,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Triangulo del Este,0.0
+925000,VE 23-25764,Apartamento,1 Nivel,595,Usado,3,5,4,Cubierto,4,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas de La Alameda,1.0
+790000,VE 23-25763,Apartamento,Duplex,511,Usado,4,6,5,Cubierto,4,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Sebucan,1.0
+270,VE 23-25762,Apartamento,1 Nivel,97,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Merida,Merida,Avenida 5,0.0
+60000,VE 23-25760,Apartamento,1 Nivel,112,Usado,3,3,2,Cubierto,2,No,No,Venezuela,Carabobo,Valencia,La Trigaleña,1.0
+17000,VE 23-25759,Apartamento,1 Nivel,4850,Usado,1,1,1,Cubierto,1,No,No,Venezuela,Vargas,La Guaira,Tanaguarenas,0.0
+120000,VE 23-25751,Apartamento,1 Nivel,172,Usado,3,4,3,Cubierto,1,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Santa Fe Norte,1.0
+13000,VE 23-25750,Apartamento,1 Nivel,7250,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Lara,Cabudare,Los Rastrojos,0.0
+115000,VE 23-25741,Apartamento,1 Nivel,226,Usado,4,4,3,Cubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,La Florida,1.0
+24000,VE 23-25738,Apartamento,1 Nivel,88,Usado,3,2,2,Ninguno,0,No,No,Venezuela,Miranda,Municipio Guaicaipuro,Finca Campo Alegre,0.0
+55000,VE 23-25734,Apartamento,1 Nivel,110,Usado,3,3,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Urbina,0.0
+99000,VE 23-25732,Apartamento,1 Nivel,143,Usado,3,4,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Cumbres de Curumo,1.0
+3500,VE 23-25731,Apartamento,Penthouse,1000,Usado,6,9,7,Cubierto,6,No,Si,Venezuela,Zulia,Maracaibo,5 de Julio,2.0
+12000,VE 23-25730,Apartamento,Multiples Niveles,102,Usado,4,2,2,Cubierto,1,Parcialmente,No,Venezuela,Lara,Cabudare,La Mora,0.0
+10500,VE 23-25729,Apartamento,1 Nivel,7070,Usado,3,1,1,Cubierto,1,No,No,Venezuela,Miranda,Los Teques,Lagunetica,0.0
+53000,VE 23-25728,Apartamento,1 Nivel,98,Usado,3,3,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,1.0
+35000,VE 23-25725,Apartamento,1 Nivel,110,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Centro,0.0
+400,VE 23-25723,Apartamento,1 Nivel,144,Usado,3,3,3,Cubierto,1,Si,No,Venezuela,Aragua,Maracay,Andres Bello,0.0
+12000,VE 23-25720,Apartamento,1 Nivel,85,Usado,2,1,1,Descubierto,1,No,No,Venezuela,Falcon,Coro,Centro,0.0
+65000,VE 23-25719,Apartamento,1 Nivel,114,Usado,3,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Cigarral,0.0
+58000,VE 23-25717,Apartamento,1 Nivel,72,Usado,2,2,2,Descubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de La Tahona,0.0
+1200,VE 23-25716,Apartamento,1 Nivel,105,Usado,2,2,2,Descubierto,1,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Chuao,0.0
+125000,VE 23-25714,Apartamento,1 Nivel,105,Usado,2,2,2,Descubierto,1,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Chuao,0.0
+16000,VE 23-25708,Apartamento,1 Nivel,92,Usado,3,3,2,Descubierto,1,No,No,Venezuela,Lara,Cabudare,Agua Viva,1.0
+220,VE 23-25705,Apartamento,1 Nivel,46,Usado,1,1,1,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Miravila,0.0
+390000,VE 23-25700,Apartamento,Planta Baja,200,Usado,3,5,3,Cubierto,4,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Los Samanes,2.0
+40000,VE 23-25699,Apartamento,1 Nivel,97,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Carabobo,Valencia,Valles de Camoruco,0.0
+245000,VE 23-25698,Apartamento,1 Nivel,381,Usado,5,6,6,Cubierto,4,Parcialmente,Si,Venezuela,Carabobo,Valencia,La Trigaleña,0.0
+350,VE 23-25697,Apartamento,1 Nivel,63,Usado,2,2,2,Descubierto,2,Parcialmente,No,Venezuela,Zulia,Maracaibo,Las Lomas,0.0
+149000,VE 23-25696,Apartamento,1 Nivel,151,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Solar del Hatillo,0.0
+135000,VE 23-25694,Apartamento,1 Nivel,205,Usado,4,5,4,Cubierto,2,Parcialmente,Si,Venezuela,Carabobo,Valencia,La Trigaleña,1.0
+30000,VE 23-25693,Apartamento,1 Nivel,90,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Urbina,0.0
+350,VE 23-25692,Apartamento,1 Nivel,80,Usado,3,2,2,Descubierto,1,Parcialmente,No,Venezuela,Carabobo,Municipio Naguanagua,Manongo,0.0
+21000,VE 23-25688,Apartamento,1 Nivel,80,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Carabobo,Valencia,Prebo I,0.0
+10000,VE 23-25687,Apartamento,1 Nivel,78,Usado,3,2,2,Cubierto,1,Parcialmente,No,Venezuela,Carabobo,Valencia,Parque Valencia,0.0
+330000,VE 23-25681,Apartamento,Penthouse,227,Usado,3,6,4,Cubierto,5,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,2.0
+3200,VE 23-25680,Apartamento,Multiples Niveles,261,Usado,4,6,5,Cubierto,5,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Lomas de La Alameda,1.0
+21000,VE 23-25675,Apartamento,1 Nivel,88,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Aragua,Maracay,Avenida Bolivar,0.0
+70000,VE 23-25674,Apartamento,1 Nivel,103,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,San Bernardino,0.0
+60000,VE 23-25670,Apartamento,1 Nivel,84,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Urbina,0.0
+75000,VE 23-25669,Apartamento,1 Nivel,120,Usado,4,3,3,Cubierto,2,No,Si,Venezuela,Aragua,Maracay,Calicanto,0.0
+59000,VE 23-25663,Apartamento,1 Nivel,96,Usado,3,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Manzanares,0.0
+23000,VE 23-25661,Apartamento,1 Nivel,64,Usado,1,2,2,Descubierto,1,Si,No,Venezuela,Falcon,Tucacas,Tucacas,0.0
+350,VE 23-25660,Apartamento,1 Nivel,102,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Fundalara,0.0
+57000,VE 23-25659,Apartamento,1 Nivel,96,Usado,2,2,2,Descubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,Horizonte,0.0
+1700,VE 23-25658,Apartamento,1 Nivel,70,Usado,1,1,1,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,La Castellana,0.0
+65000,VE 23-25656,Apartamento,1 Nivel,92,Nuevo,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Guarico,San Juan de los Morros,Antonio Miguel Martinez,0.0
+50000,VE 23-25652,Apartamento,1 Nivel,82,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La Boyera,0.0
+1650,VE 23-25649,Apartamento,Duplex,129,Usado,2,4,3,Cubierto,2,Si,Si,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos de Las Mercedes,1.0
+110000,VE 23-25648,Apartamento,1 Nivel,103,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,0.0
+11000,VE 23-25646,Apartamento,1 Nivel,62,Usado,3,1,1,Descubierto,1,No,No,Venezuela,Miranda,Guatire,El Marques,0.0
+21000,VE 23-25645,Apartamento,1 Nivel,88,Usado,3,2,2,Cubierto,1,No,Si,Venezuela,Merida,Merida,El Rosario,0.0
+493000,VE 23-25643,Apartamento,1 Nivel,318,Usado,4,4,4,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Mirador de Los Campitos I,0.0
+16000,VE 23-25636,Apartamento,1 Nivel,62,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Carabobo,Guacara,Ciudad Alianza,0.0
+250000,VE 23-25632,Apartamento,1 Nivel,94,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+13000,VE 23-25629,Apartamento,1 Nivel,62,Usado,3,1,1,Cubierto,1,No,No,Venezuela,Miranda,Guatire,La Rosa,0.0
+70000,VE 23-25627,Apartamento,1 Nivel,72,Usado,2,2,2,Descubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de La Tahona,0.0
+58000,VE 23-25620,Apartamento,1 Nivel,110,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+18000,VE 23-25619,Apartamento,1 Nivel,81,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Lara,Barquisimeto,Parroquia Concepcion,0.0
+32000,VE 23-25616,Apartamento,1 Nivel,76,Usado,3,2,2,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+390000,VE 23-25614,Apartamento,1 Nivel,242,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+112000,VE 23-25613,Apartamento,Duplex,194,Usado,2,3,2,Cubierto,2,No,No,Venezuela,Nueva Esparta,Margarita,Pampatar,1.0
+370000,VE 23-25611,Apartamento,1 Nivel,219,Usado,3,2,2,Cubierto,4,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Solar del Hatillo,0.0
+270,VE 23-25606,Apartamento,1 Nivel,70,Usado,2,2,2,Descubierto,1,Si,No,Venezuela,Lara,Cabudare,La Riberena,0.0
+75000,VE 23-25605,Apartamento,1 Nivel,79,Usado,2,2,2,Cubierto,1,Si,No,Venezuela,Miranda,Higuerote,Puerto Encantado,0.0
+150000,VE 23-25604,Apartamento,Penthouse,324,Usado,3,4,3,Cubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,1.0
+25000,VE 23-25599,Apartamento,Penthouse,72,Usado,2,1,1,Ninguno,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia Altagracia,0.0
+140000,VE 23-25595,Apartamento,1 Nivel,136,Usado,2,3,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+70000,VE 23-25593,Apartamento,1 Nivel,126,Usado,4,3,3,Cubierto,1,No,Si,Venezuela,Distrito Metropolitano,Caracas,Macaracuay,0.0
+28000,VE 23-25591,Apartamento,1 Nivel,64,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Miravila,0.0
+45000,VE 23-25590,Apartamento,1 Nivel,51,Usado,1,1,1,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Loma Linda,0.0
+140000,VE 23-25587,Apartamento,1 Nivel,136,Usado,2,3,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+83000,VE 23-25586,Apartamento,1 Nivel,106,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+35000,VE 23-25585,Apartamento,1 Nivel,95,Usado,3,2,2,Descubierto,1,Si,No,Venezuela,Lara,Barquisimeto,Zona Este,0.0
+87000,VE 23-25584,Apartamento,1 Nivel,105,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Loma Linda,0.0
+27000,VE 23-25581,Apartamento,1 Nivel,67,Usado,2,1,1,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia Santa Rosalia,0.0
+29000,VE 23-25579,Apartamento,1 Nivel,62,Usado,2,2,2,Cubierto,1,Si,No,Venezuela,Miranda,Higuerote,Agua Sal,0.0
+121000,VE 23-25578,Apartamento,1 Nivel,78,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,0.0
+50000,VE 23-25574,Apartamento,1 Nivel,55,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Vargas,Parroquia Caraballeda,Tanaguarena,0.0
+180000,VE 23-25571,Apartamento,1 Nivel,397,Usado,6,7,6,Cubierto,3,Parcialmente,Si,Venezuela,Zulia,Maracaibo,El Milagro,1.0
+80000,VE 23-25568,Apartamento,1 Nivel,143,Usado,4,3,3,Cubierto,1,Si,Si,Venezuela,Distrito Metropolitano,Caracas,El Marques,0.0
+40000,VE 23-25565,Apartamento,1 Nivel,96,Usado,3,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Palo Verde,0.0
+110000,VE 23-25563,Apartamento,1 Nivel,162,Usado,4,3,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Bello Campo,0.0
+60000,VE 23-25560,Apartamento,1 Nivel,119,Usado,3,2,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,0.0
+160000,VE 23-25558,Apartamento,1 Nivel,166,Usado,3,4,4,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,0.0
+290000,VE 23-25557,Apartamento,1 Nivel,134,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,San Marino,0.0
+300000,VE 23-25554,Apartamento,Duplex,464,Usado,3,7,5,Cubierto,5,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,2.0
+120000,VE 23-25553,Apartamento,1 Nivel,140,Usado,3,1,1,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
+78000,VE 23-25540,Apartamento,1 Nivel,9581,Usado,2,2,1,Cubierto,1,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,1.0
+275000,VE 23-25537,Apartamento,Multiples Niveles,218,Usado,3,3,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Las Mercedes,0.0
+18500,VE 23-25535,Apartamento,1 Nivel,56,Usado,2,1,1,Descubierto,1,Parcialmente,No,Venezuela,Carabobo,Municipio San Diego,El Tulipan,0.0
+10500,VE 23-25533,Apartamento,Planta Baja,5617,Usado,2,1,1,Descubierto,1,Parcialmente,No,Venezuela,Carabobo,Valencia,El Portal de San Luis,0.0
+25000,VE 23-25529,Apartamento,1 Nivel,60,Usado,2,2,2,Descubierto,2,No,No,Venezuela,Vargas,Parroquia Caraballeda,Camuri Chico,0.0
+26000,VE 23-25528,Apartamento,1 Nivel,102,Usado,4,1,1,Cubierto,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Caricuao,0.0
+46000,VE 23-25524,Apartamento,1 Nivel,54,Usado,1,1,1,Ninguno,0,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Chacao,0.0
+160000,VE 23-25523,Apartamento,1 Nivel,208,Usado,3,4,3,Cubierto,4,No,Si,Venezuela,Distrito Metropolitano,Caracas,Llano Verde,1.0
+32000,VE 23-25521,Apartamento,1 Nivel,60,Usado,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,El Encantado,0.0
+35000,VE 23-25519,Apartamento,1 Nivel,95,Usado,3,2,2,Ninguno,0,No,Si,Venezuela,Distrito Metropolitano,Caracas,San Agustin del Norte,0.0
+85000,VE 23-25518,Apartamento,1 Nivel,124,Usado,3,3,3,Cubierto,2,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,El Cigarral,0.0
+95000,VE 23-25516,Apartamento,1 Nivel,152,Usado,3,3,3,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,0.0
+120000,VE 23-25513,Apartamento,1 Nivel,92,Usado,3,2,2,Descubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Colinas de La Tahona,0.0
+38000,VE 23-25511,Apartamento,1 Nivel,60,Usado,2,2,2,Cubierto,1,Parcialmente,No,Venezuela,Vargas,Parroquia Caraballeda,Caribe,0.0
+64000,VE 23-25506,Apartamento,1 Nivel,81,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Santa Fe Norte,0.0
+55000,VE 23-25505,Apartamento,1 Nivel,135,Usado,3,3,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Las Palmas,1.0
+35000,VE 23-25501,Apartamento,Planta Baja,165,Usado,3,4,3,Descubierto,2,No,Si,Venezuela,Zulia,Maracaibo,Virginia,1.0
+75000,VE 23-25493,Apartamento,1 Nivel,98,Usado,2,2,2,Descubierto,18,No,No,Venezuela,Miranda,Higuerote,Agua Sal,0.0
+475000,VE 23-25492,Apartamento,Duplex,340,Usado,4,5,4,Cubierto,6,Si,Si,Venezuela,Lara,Barquisimeto,Colinas Del Turbio,1.0
+69850,VE 23-25489,Apartamento,1 Nivel,55,Usado,1,1,1,Cubierto,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,0.0
+130000,VE 23-25488,Apartamento,1 Nivel,125,Usado,3,3,3,Cubierto,2,Si,No,Venezuela,Aragua,Maracay,Base Aragua,0.0
+178000,VE 23-25484,Apartamento,1 Nivel,132,Obra Gris,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Sol,0.0
+15500,VE 23-25481,Apartamento,1 Nivel,92,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Carabobo,Municipio Naguanagua,Piedra Pintada,0.0
+30000,VE 23-25479,Apartamento,1 Nivel,49,Usado,1,2,2,Cubierto,1,Si,No,Venezuela,Vargas,Catia La Mar,Playa Grande,0.0
+800000,VE 23-25478,Apartamento,1 Nivel,388,Usado,4,5,4,Cubierto,6,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,1.0
+100000,VE 23-25475,Apartamento,1 Nivel,265,Usado,5,6,6,Cubierto,4,Parcialmente,Si,Venezuela,Lara,Barquisimeto,Del Este,0.0
+25500,VE 23-25473,Apartamento,1 Nivel,77,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Miranda,Guarenas,Terrazas Altos de San Pedro,0.0
+48000,VE 23-25471,Apartamento,1 Nivel,160,Usado,3,3,3,Cubierto,2,No,No,Venezuela,Lara,Barquisimeto,Triangulo del Este,0.0
+21500,VE 23-25468,Apartamento,1 Nivel,86,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Lara,Barquisimeto,Del Este,0.0
+119000,VE 23-25466,Apartamento,1 Nivel,120,Usado,2,3,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Lomas de Prados del Este,0.0
+47000,VE 23-25465,Apartamento,1 Nivel,167,Usado,3,4,4,Cubierto,2,No,No,Venezuela,Aragua,Maracay,San Isidro,0.0
+30000,VE 23-25464,Apartamento,1 Nivel,133,Usado,3,3,3,Cubierto,1,Parcialmente,Si,Venezuela,Lara,Barquisimeto,Bararida,0.0
+800,VE 23-25462,Apartamento,1 Nivel,50,Usado,1,1,1,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+22000,VE 23-25461,Apartamento,1 Nivel,70,Usado,2,2,2,Cubierto,1,Parcialmente,No,Venezuela,Nueva Esparta,Margarita,La Asuncion,0.0
+33000,VE 23-25459,Apartamento,1 Nivel,94,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Miranda,San Antonio de los Altos,Los Salias,0.0
+10000,VE 23-25457,Apartamento,1 Nivel,78,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Carabobo,Guacara,Centro,0.0
+140000,VE 23-25456,Apartamento,1 Nivel,136,Usado,2,3,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+340000,VE 23-25455,Apartamento,1 Nivel,140,Usado,3,3,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Escampadero,1.0
+300000,VE 23-25454,Apartamento,Duplex,27190,Usado,5,5,4,Cubierto,4,Parcialmente,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,1.0
+140000,VE 23-25451,Apartamento,1 Nivel,136,Usado,2,3,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+105000,VE 23-25440,Apartamento,1 Nivel,64,Usado,1,2,1,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,El Pedregal,1.0
+33000,VE 23-25437,Apartamento,1 Nivel,76,Usado,3,2,2,Cubierto,2,Si,No,Venezuela,Zulia,Ciudad Ojeda,Avenida Vargas,0.0
+49000,VE 23-25432,Apartamento,1 Nivel,98,Usado,3,2,2,Cubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,La California Norte,0.0
+36000,VE 23-25431,Apartamento,1 Nivel,151,Usado,4,4,4,Cubierto,2,No,No,Venezuela,Aragua,Maracay,Zona Centro,0.0
+67000,VE 23-25429,Apartamento,1 Nivel,57,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+23000,VE 23-25428,Apartamento,1 Nivel,98,Usado,3,2,2,Cubierto,1,Si,No,Venezuela,Zulia,Maracaibo,Fuerzas Armadas,0.0
+350,VE 23-25427,Apartamento,1 Nivel,73,Usado,3,2,2,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Miravila,0.0
+26250,VE 23-25426,Apartamento,1 Nivel,85,Usado,2,2,2,Descubierto,1,Si,No,Venezuela,Carabobo,Municipio San Diego,Monteserino,0.0
+650,VE 23-25424,Apartamento,1 Nivel,57,Usado,1,1,1,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,El Rosal,0.0
+35000,VE 23-25421,Apartamento,1 Nivel,50,Usado,2,1,1,Cubierto,0,Si,No,Venezuela,Distrito Metropolitano,Caracas,Chacao,0.0
+53000,VE 23-25419,Apartamento,1 Nivel,118,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Miranda,0.0
+165000,VE 23-25417,Apartamento,1 Nivel,104,Obra Gris,2,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Campo Alegre,0.0
+550000,VE 23-25416,Apartamento,Duplex,315,Usado,3,4,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos de Las Mercedes,1.0
+45000,VE 23-25414,Apartamento,1 Nivel,89,Usado,3,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,El Marques,0.0
+250000,VE 23-25411,Apartamento,1 Nivel,120,Obra Gris,2,2,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Santa Fe Sur,0.0
+50000,VE 23-25409,Apartamento,1 Nivel,87,Nuevo,3,2,2,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Lomas del Avila,0.0
+50000,VE 23-25406,Apartamento,1 Nivel,100,Usado,3,2,2,Descubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Los Chaguaramos,0.0
+190000,VE 23-25405,Apartamento,1 Nivel,173,Usado,3,2,2,Cubierto,2,Si,No,Venezuela,Distrito Metropolitano,Caracas,Los Dos Caminos,0.0
+29000,VE 23-25401,Apartamento,1 Nivel,60,Usado,1,2,2,Cubierto,1,No,No,Venezuela,Vargas,Parroquia Caraballeda,Caribe,0.0
+1200,VE 23-25399,Apartamento,1 Nivel,170,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Santa Marta,0.0
+90000,VE 23-25398,Apartamento,1 Nivel,131,Usado,3,3,3,Ninguno,0,No,Si,Venezuela,Distrito Metropolitano,Caracas,Chacao,0.0
+23000,VE 23-25397,Apartamento,1 Nivel,71,Usado,2,1,1,Cubierto,1,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia San Juan,0.0
+12000,VE 23-25390,Apartamento,Multiples Niveles,183,Usado,3,2,2,Ninguno,0,No,No,Venezuela,Distrito Metropolitano,Caracas,El Junquito,0.0
+21000,VE 23-25388,Apartamento,1 Nivel,61,Usado,2,2,2,Cubierto,1,No,No,Venezuela,Aragua,Maracay,Zona Centro,0.0
+50000,VE 23-25385,Apartamento,1 Nivel,75,Usado,2,2,2,Descubierto,1,No,No,Venezuela,Distrito Metropolitano,Caracas,Terrazas del Club Hipico,0.0
+85000,VE 23-25383,Apartamento,1 Nivel,69,Usado,2,2,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,La Union,0.0
+180000,VE 23-25379,Apartamento,1 Nivel,170,Usado,3,3,3,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Santa Marta,0.0
+180000,VE 23-25376,Apartamento,Duplex,370,Usado,5,7,5,Cubierto,4,Si,Si,Venezuela,Carabobo,Valencia,El Parral,2.0
+255000,VE 23-25371,Apartamento,1 Nivel,125,Nuevo,3,4,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+180000,VE 23-25370,Apartamento,1 Nivel,91,Nuevo,2,3,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+20000,VE 23-25369,Apartamento,1 Nivel,72,Usado,4,1,1,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Caricuao,0.0
+230000,VE 23-25367,Apartamento,1 Nivel,125,Nuevo,3,4,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+190000,VE 23-25366,Apartamento,1 Nivel,93,Nuevo,2,3,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+210000,VE 23-25365,Apartamento,1 Nivel,91,Nuevo,2,3,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+1400,VE 23-25364,Apartamento,1 Nivel,113,Usado,3,3,2,Cubierto,2,Parcialmente,No,Venezuela,Distrito Metropolitano,Caracas,Escampadero,1.0
+175000,VE 23-25363,Apartamento,1 Nivel,93,Nuevo,2,3,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+115000,VE 23-25362,Apartamento,1 Nivel,67,Nuevo,1,2,1,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+310000,VE 23-25358,Apartamento,1 Nivel,163,Nuevo,3,4,3,Cubierto,4,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+58000,VE 23-25355,Apartamento,1 Nivel,206,Usado,3,3,2,Ninguno,0,No,No,Venezuela,Distrito Metropolitano,Caracas,Parroquia La Candelaria,1.0
+145000,VE 23-25354,Apartamento,1 Nivel,190,Usado,3,3,2,Cubierto,2,No,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,1.0
+240000,VE 23-25353,Apartamento,1 Nivel,125,Nuevo,3,4,3,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,Country Club,1.0
+1200,VE 23-25352,Apartamento,1 Nivel,110,Usado,3,3,3,Cubierto,1,Si,No,Venezuela,Distrito Metropolitano,Caracas,Los Palos Grandes,0.0
+340000,VE 23-25350,Apartamento,1 Nivel,233,Usado,4,5,4,Cubierto,3,No,Si,Venezuela,Distrito Metropolitano,Caracas,Colinas de Valle Arriba,1.0
+95000,VE 23-25347,Apartamento,1 Nivel,107,Usado,3,3,2,Cubierto,2,No,No,Venezuela,Distrito Metropolitano,Caracas,El Paraiso,1.0
