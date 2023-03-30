@@ -1,4 +1,95 @@
 Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inmueble,Dormitorios,Total Baños,Baños Completos,Tipo De Estacionamiento,Puestos De Estacionamiento,Amoblado,Dormitorio De Servicio,Calle,País,Estado,Ciudad,Urbanización,Medios Baños
+850000,VE 23-26601,Casa,Duplex,400,827,Usado,5,4,4,Cubierto,5.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Altamira,0.0
+45000,VE 23-26599,Casa,1 Nivel,184,214,Usado,4,2,2,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Aragua,Cagua,Corinsa,0.0
+220000,VE 23-26597,Casa,1 Nivel,545,644,Usado,5,5,4,Cubierto,5.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Cafetal,1.0
+119000,VE 23-26589,Casa,Duplex,290,750,Usado,3,4,3,Cubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Monte Claro,1.0
+20000,VE 23-26587,Casa,1 Nivel,65,500,Usado,2,5,2,Descubierto,3.0,No,No,Publica,Venezuela,Miranda,Chirimena,Corrales,3.0
+119000,VE 23-26584,Casa,Duplex,260,800,Usado,3,4,3,Descubierto,6.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Monte Claro,1.0
+25000,VE 23-26571,Casa,1 Nivel,261,915,Usado,6,6,6,Descubierto,6.0,No,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Acarigua,Centro,0.0
+750000,VE 23-26567,Casa,Multipes Niveles,1500,900,Usado,7,9,8,Cubierto,8.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,1.0
+530000,VE 23-26564,Casa,Duplex,380,1427,Usado,6,7,6,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Terrazas del Club Hipico,1.0
+25000,VE 23-26561,Casa,Duplex,213,213,Usado,5,4,3,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Concepcion,1.0
+15000,VE 23-26560,Casa,1 Nivel,15125,151,Usado,2,1,1,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
+140000,VE 23-26556,Casa,Multipes Niveles,252,350,Usado,4,3,3,Cubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Trinidad,0.0
+250000,VE 23-26548,Casa,Duplex,300,700,Usado,4,5,4,Descubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Terrazas del Club Hipico,1.0
+280000,VE 23-26542,Casa,1 Nivel,400,520,Usado,4,6,4,Cubierto,6.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Samanes,2.0
+310000,VE 23-26541,Casa,Multipes Niveles,650,750,Usado,4,5,4,Cubierto,4.0,No,Si,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,1.0
+130000,VE 23-26540,Casa,Multipes Niveles,364,520,Usado,6,5,5,Cubierto,,No,No,Publica,Venezuela,Falcon,Punto Fijo,Puerta Maraven,0.0
+22000,VE 23-26537,Casa,1 Nivel,160,160,Usado,2,2,2,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,La Ensenada,0.0
+1900000,VE 23-26528,Casa,Duplex,550,2035,Usado,4,8,7,Cubierto,12.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,1.0
+300000,VE 23-26526,Casa,1 Nivel,134,2100,Usado,1,2,2,Descubierto,4.0,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Alto Hatillo,0.0
+50000,VE 23-26519,Casa,1 Nivel,194,194,Usado,6,3,3,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Los Cardones,0.0
+165000,VE 23-26515,Casa,1 Nivel,690,690,Usado,4,5,5,Cubierto,,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Juan de Villegas,0.0
+150000,VE 23-26514,Casa,Multipes Niveles,470,487,Usado,3,3,2,Descubierto,4.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,1.0
+40000,VE 23-26513,Casa,1 Nivel,280,290,Usado,4,4,4,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Morenera,0.0
+750000,VE 23-26509,Casa,Multipes Niveles,690,1284,Usado,5,6,6,Cubierto,10.0,Si,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,0.0
+3000,VE 23-26503,Casa,1 Nivel,132,550,Usado,3,2,2,Cubierto,,No,No,Publica,Venezuela,Miranda,Higuerote,Mamporal,0.0
+210000,VE 23-26500,Casa,Multipes Niveles,792,1013,Usado,5,5,2,Cubierto,4.0,Si,No,Cerrada con Vigilancia,Venezuela,Miranda,Carrizal,Colinas de Carrizal,3.0
+20000,VE 23-26497,Casa,1 Nivel,353,2235,Usado,5,4,4,Descubierto,10.0,No,No,Publica,Venezuela,Trujillo,Escuque,Juan Diaz,0.0
+98000,VE 23-26494,Casa,Duplex,335,392,Usado,4,6,5,Cubierto,4.0,Si,Si,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Trigal Norte,1.0
+600000,VE 23-26484,Casa,1 Nivel,667,667,Usado,5,4,4,Cubierto,5.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Zona Este,0.0
+250000,VE 23-26483,Casa,Duplex,408,408,Usado,5,5,4,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Zona Este,1.0
+34000,VE 23-26481,Casa,1 Nivel,250,347,Usado,5,4,4,Cubierto,3.0,Si,Si,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Villas Tabure,0.0
+77500,VE 23-26480,Casa,Duplex,150,180,Usado,4,3,3,Descubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Trinidad,0.0
+69000,VE 23-26478,Casa,Multipes Niveles,522,166,Usado,8,6,6,Descubierto,4.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Junquito,0.0
+80000,VE 23-26465,Casa,Multipes Niveles,360,951,Usado,4,4,3,Cubierto,4.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Junquito,1.0
+110000,VE 23-26463,Casa,Duplex,284,317,Usado,4,5,5,Cubierto,5.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,El Pedregal,0.0
+1645000,VE 23-26458,Casa,Duplex,1300,2394,Usado,6,9,7,Cubierto,12.0,Si,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Lomas de La Lagunita,2.0
+160000,VE 23-26451,Casa,Multipes Niveles,315,400,Usado,12,13,13,Cubierto,3.0,Si,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Parroquia Santa Rosalia,0.0
+16000,VE 23-26440,Casa,1 Nivel,90,264,Usado,2,2,2,Cubierto,3.0,No,No,Calle Ciega,Venezuela,Aragua,Palo Negro,Centro Palo Negro,0.0
+147000,VE 23-26437,Casa,Duplex,525,500,Usado,4,5,5,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Santa Monica,0.0
+235000,VE 23-26431,Casa,Multipes Niveles,529,700,Usado,4,5,4,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Miranda,1.0
+140000,VE 23-26430,Casa,Multipes Niveles,351,410,Usado,5,6,5,Cubierto,3.0,Si,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,1.0
+85000,VE 23-26426,Casa,Duplex,525,525,Usado,4,4,4,Cubierto,4.0,Si,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La California Norte,0.0
+160000,VE 23-26425,Casa,1 Nivel,450,593,Usado,3,5,4,Descubierto,5.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Marques,1.0
+460000,VE 23-26421,Casa,Multipes Niveles,350,995,Usado,4,4,3,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Placer,1.0
+25000,VE 23-26419,Casa,1 Nivel,109,201,Usado,2,2,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Falcon,Chichiriviche,Playa Norte,0.0
+22000,VE 23-26418,Casa,1 Nivel,191,191,Usado,3,2,2,Cubierto,,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Puerta Maraven,0.0
+150000,VE 23-26412,Casa,Casas de Campo,350,2781,Usado,4,4,4,Cubierto,8.0,Parcialmente,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Alto Hatillo,0.0
+580000,VE 23-26406,Casa,Multipes Niveles,380,374,Usado,4,5,4,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas del Tamanaco,1.0
+55000,VE 23-26405,Casa,Multipes Niveles,360,2458,Usado,4,4,3,Descubierto,5.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Caicaguana,1.0
+45000,VE 23-26404,Casa,Multipes Niveles,62,62,Usado,3,3,2,Descubierto,1.0,Parcialmente,No,Publica,Venezuela,Lara,Cabudare,Caminos de Tarabana,1.0
+430000,VE 23-26403,Casa,Multipes Niveles,340,803,Usado,4,6,4,Descubierto,3.0,Si,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Chorros,2.0
+145000,VE 23-26395,Casa,Multipes Niveles,600,1537,Usado,8,6,6,Cubierto,10.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,El Junquito,0.0
+700000,VE 23-26392,Casa,1 Nivel,700,325,Usado,6,10,7,Cubierto,5.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,La California Norte,3.0
+180000,VE 23-26391,Casa,Multipes Niveles,500,352,Usado,6,4,4,Cubierto,6.0,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,0.0
+14000,VE 23-26388,Casa,1 Nivel,156,156,Usado,5,3,3,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
+210000,VE 23-26375,Casa,Multipes Niveles,233,233,Usado,3,2,2,Cubierto,,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Marques,0.0
+32000,VE 23-26370,Casa,Duplex,450,450,Usado,3,3,3,Descubierto,5.0,No,No,Publica,Venezuela,Zulia,Maracaibo,La Coromoto,0.0
+20000,VE 23-26366,Casa,1 Nivel,180,250,Usado,3,2,2,Cubierto,3.0,No,No,Publica,Venezuela,Aragua,Maracay,La Esmeralda,0.0
+38000,VE 23-26359,Casa,Duplex,422,422,Usado,6,7,5,Cubierto,9.0,No,No,Publica,Venezuela,Zulia,Maracaibo,Circunvalacion Uno,2.0
+230000,VE 23-26356,Casa,1 Nivel,231,584,Usado,4,4,3,Cubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Miranda,San Antonio de los Altos,Parque el Retiro,1.0
+70000,VE 23-26353,Casa,1 Nivel,243,243,Usado,3,3,3,Descubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Via el Ujano,0.0
+300000,VE 23-26352,Casa,Multipes Niveles,398,1293,Usado,4,5,4,Cubierto,8.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Peñon,1.0
+45000,VE 23-26342,Casa,Multipes Niveles,400,1140,Usado,3,4,3,Cubierto,4.0,Parcialmente,No,Publica,Venezuela,Carabobo,Municipio Naguanagua,La Entrada,1.0
+220000,VE 23-26337,Casa,Duplex,350,427,Usado,4,5,4,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Santa Monica,1.0
+350000,VE 23-26335,Casa,Multipes Niveles,1150,1723,Usado,7,6,6,Cubierto,12.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Peñon,0.0
+65000,VE 23-26334,Casa,1 Nivel,342,624,Usado,3,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Carabobo,Municipio Naguanagua,Santa Ana,0.0
+25000,VE 23-26331,Casa,1 Nivel,986,986,Usado,6,6,6,Descubierto,2.0,No,No,Publica,Venezuela,Trujillo,Pampan,Las Malvinas,0.0
+320000,VE 23-26326,Casa,Duplex,409,409,Usado,4,5,4,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+35000,VE 23-26323,Casa,1 Nivel,450,450,Usado,4,4,4,Descubierto,5.0,No,Si,Publica,Venezuela,Zulia,Maracaibo,Las Lomas,0.0
+570000,VE 23-26322,Casa,Multipes Niveles,970,2523,Usado,6,6,6,Cubierto,4.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,0.0
+180000,VE 23-26319,Casa,Duplex,462,462,Usado,5,4,4,Cubierto,5.0,Parcialmente,Si,Publica,Venezuela,Lara,Barquisimeto,Parroquia Santa Rosa,0.0
+120000,VE 23-26316,Casa,Multipes Niveles,380,531,Usado,3,4,3,Descubierto,4.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Caicaguana,1.0
+13000,VE 23-26310,Casa,1 Nivel,62,62,Nuevo,2,1,1,Descubierto,1.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,La Ensenada,0.0
+35000,VE 23-26306,Casa,1 Nivel,275,300,Usado,3,3,3,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Cabudare,Centro,0.0
+25000,VE 23-26301,Casa,1 Nivel,116,116,Usado,4,4,4,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Los Rastrojos,0.0
+390000,VE 23-26300,Casa,Multipes Niveles,584,1747,Usado,7,10,9,Cubierto,6.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,1.0
+110000,VE 23-26298,Casa,1 Nivel,512,512,Usado,3,3,2,Cubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Los Libertadores,1.0
+250000,VE 23-26293,Casa,Multipes Niveles,330,651,Usado,4,5,4,Cubierto,3.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Cafetal,1.0
+190000,VE 23-26283,Casa,Multipes Niveles,416,416,Usado,4,4,3,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Boyera,1.0
+60000,VE 23-26281,Casa,Duplex,422,27370,Usado,6,5,5,Descubierto,6.0,No,No,Publica,Venezuela,Trujillo,Bocono,Via Bocono,0.0
+50000,VE 23-26279,Casa,1 Nivel,600,853,Usado,5,4,3,Cubierto,5.0,No,No,Publica,Venezuela,Portuguesa,Acarigua,Centro,1.0
+65000,VE 23-26278,Casa,Duplex,207,207,Usado,4,3,3,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Canas Verdes,0.0
+28000,VE 23-26277,Casa,Duplex,207,164,Usado,4,2,2,Descubierto,2.0,No,No,Calle Ciega,Venezuela,Miranda,Guarenas,Trapichito,0.0
+64999,VE 23-26271,Casa,Multipes Niveles,209,209,Usado,3,4,3,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Mora,1.0
+135000,VE 23-26264,Casa,1 Nivel,800,8000,Usado,4,7,7,Descubierto,25.0,No,No,Publica,Venezuela,Lara,Cabudare,Agua Viva,0.0
+380000,VE 23-26261,Casa,Multipes Niveles,420,420,Nuevo,5,1,1,Cubierto,6.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Santa Sofia,0.0
+225000,VE 23-26252,Casa,1 Nivel,450,315,Usado,4,4,4,Cubierto,,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Campo Claro,0.0
+49000,VE 23-26244,Casa,1 Nivel,380,380,Usado,3,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Centro,0.0
+30000,VE 23-26239,Casa,Duplex,125,80,Usado,4,3,2,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Parroquia Concepcion,1.0
+40000,VE 23-26235,Casa,Multipes Niveles,211,120,Obra Gris,3,4,3,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,La Victoria,Guaracarima,1.0
+350000,VE 23-26230,Casa,1 Nivel,360,630,Usado,4,6,5,Cubierto,3.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,1.0
 498000,VE 23-26224,Casa,1 Nivel,948,948,Usado,5,8,8,Cubierto,10.0,Si,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Lomas del Club Hipico,0.0
 240000,VE 23-26220,Casa,Multipes Niveles,307,704,Usado,5,6,5,Descubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Marques,1.0
 580000,VE 23-26215,Casa,1 Nivel,380,1251,Usado,5,6,5,Cubierto,5.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,1.0
@@ -21,7 +112,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 260000,VE 23-26150,Casa,Multipes Niveles,760,910,Usado,7,10,8,Cubierto,12.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Marques,2.0
 150000,VE 23-26147,Casa,1 Nivel,549,800,Usado,4,2,2,Descubierto,3.0,No,No,Publica,Venezuela,Aragua,Maracay,La Floresta,0.0
 140000,VE 23-26146,Casa,1 Nivel,400,239,Usado,6,4,4,Cubierto,2.0,Si,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Los Rosales,0.0
-1800000,VE 23-26134,Casa,Contemporaneo,800,2019,Usado,6,7,6,Cubierto,7.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Cerro Verde,1.0
+1800000,VE 23-26134,Casa,Contemporaneo,1200,2019,Usado,6,7,6,Cubierto,7.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Cerro Verde,1.0
 88000,VE 23-26133,Casa,Casas de Campo,260,1288,Usado,3,4,3,Descubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Loma Larga,1.0
 550000,VE 23-26132,Casa,1 Nivel,95000,95000,Usado,9,6,6,Descubierto,20.0,Parcialmente,Si,Calle Ciega,Venezuela,Vargas,El Junquito-Vargas,El Junko Country Club,0.0
 20000,VE 23-26119,Casa,1 Nivel,189,189,Usado,3,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Aragua,Cagua,Ciudad Jardin,0.0
@@ -30,7 +121,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 170000,VE 23-26106,Casa,Multipes Niveles,230,230,Usado,3,4,4,Cubierto,,No,No,Publica,Venezuela,Miranda,Carrizal,Municipio Carrizal,0.0
 183000,VE 23-26102,Casa,1 Nivel,300,2041,Usado,4,4,4,Cubierto,,Si,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Tarabana,0.0
 180000,VE 23-26100,Casa,Multipes Niveles,300,542,Usado,4,4,3,Descubierto,,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Trinidad,1.0
-250,VE 23-26091,Casa,1 Nivel,308,308,Usado,3,2,2,Cubierto,3.0,No,Si,Publica,Venezuela,Lara,Barquisimeto,Centro,0.0
 590000,VE 23-26083,Casa,1 Nivel,420,450,Usado,5,6,6,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Barici,0.0
 18000,VE 23-26079,Casa,1 Nivel,250,250,Usado,3,1,1,Descubierto,4.0,No,No,Publica,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
 23000,VE 23-26078,Casa,Duplex,112,112,Usado,4,3,3,Descubierto,2.0,No,No,Calle Ciega,Venezuela,Lara,Cabudare,Piedra Azul,0.0
@@ -55,7 +145,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 45000,VE 23-26014,Casa,1 Nivel,200,293,Usado,3,2,2,Cubierto,1.0,No,No,Publica,Venezuela,Lara,Cabudare,Valle Hondo,0.0
 17500,VE 23-26012,Casa,1 Nivel,135,150,Usado,3,2,2,Descubierto,1.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Mora,0.0
 16000,VE 23-26011,Casa,1 Nivel,58,180,Usado,3,2,2,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Cagua,El Bosque,0.0
-42500,VE 23-26000,Casa,Multipes Niveles,400,100,Usado,4,2,2,Ninguno,0.0,No,No,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,Catia,0.0
+60000,VE 23-26000,Casa,Multipes Niveles,400,100,Usado,4,2,2,Ninguno,0.0,No,No,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,Catia,0.0
 18000,VE 23-25995,Casa,Multipes Niveles,127,127,Usado,4,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Falcon,La Vela de Coro,Las Calderas,0.0
 115000,VE 23-25991,Casa,Duplex,240,270,Usado,5,4,4,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Montalban I,0.0
 200000,VE 23-25981,Casa,Multipes Niveles,423,423,Usado,5,3,3,Cubierto,4.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Cafetal,0.0
@@ -77,7 +167,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 45000,VE 23-25918,Casa,Duplex,206,210,Usado,3,4,3,Cubierto,2.0,Si,No,Publica,Venezuela,Aragua,Maracay,La Mulera,1.0
 30000,VE 23-25915,Casa,Duplex,108,108,Usado,4,3,3,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Prados del Golf,0.0
 32000,VE 23-25912,Casa,1 Nivel,145,238,Usado,3,2,2,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Cagua,Corinsa,0.0
-95000,VE 23-25910,Casa,Multipes Niveles,378,162,Nuevo,7,7,7,Cubierto,4.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Aragua,Maracay,Villas de Aragua,0.0
 28000,VE 23-25907,Casa,Duplex,130,144,Usado,3,4,4,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Trapiche Villas,0.0
 135000,VE 23-25903,Casa,1 Nivel,181,181,Usado,3,3,3,Cubierto,3.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Ciudad Roca,0.0
 220000,VE 23-25898,Casa,Multipes Niveles,264,1992,Usado,4,4,3,Descubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Union,1.0
@@ -96,6 +185,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 55000,VE 23-25832,Casa,1 Nivel,363,662,Usado,4,4,4,Descubierto,5.0,No,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Araure,San Jose,0.0
 10000,VE 23-25830,Casa,1 Nivel,144,144,Usado,3,2,2,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Merida,Lagunillas,Lagunillas,0.0
 70000,VE 23-25829,Casa,1 Nivel,300,555,Usado,4,5,4,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Falcon,Punto Fijo,Zarabon,1.0
+18000,VE 23-25827,Casa,Multipes Niveles,138,138,Usado,4,2,2,Cubierto,1.0,No,No,Publica,Venezuela,Aragua,Maracay,Caña de Azucar,0.0
 43500,VE 23-25823,Casa,1 Nivel,62,62,Usado,3,3,2,Cubierto,1.0,Si,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Caminos de Tarabana,1.0
 19000,VE 23-25818,Casa,1 Nivel,180,180,Usado,3,2,2,Cubierto,2.0,No,No,Calle Ciega,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
 42000,VE 23-25817,Casa,1 Nivel,200,204,Usado,3,2,2,Cubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Araure,Llano Alto,0.0
@@ -105,9 +195,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 22000,VE 23-25784,Casa,1 Nivel,226,226,Usado,4,4,3,Cubierto,3.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,El Recreo,1.0
 260000,VE 23-25783,Casa,Multipes Niveles,379,857,Usado,7,8,8,Descubierto,5.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,La Union,0.0
 580000,VE 23-25781,Casa,Duplex,1100,2211,Usado,5,7,6,Cubierto,10.0,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,1.0
-35000,VE 23-25780,Casa,Duplex,150,140,Usado,4,2,2,Cubierto,,No,No,Publica,Venezuela,Miranda,Los Teques,La Matica,0.0
 60000,VE 23-25777,Casa,Multipes Niveles,367,283,Usado,4,4,4,Cubierto,2.0,No,No,Publica,Venezuela,Aragua,Turmero,Zona Centro,0.0
-350,VE 23-25773,Casa,1 Nivel,246,288,Usado,3,5,3,Cubierto,2.0,Parcialmente,No,Publica,Venezuela,Zulia,Ciudad Ojeda,Calle Piar,2.0
 29000,VE 23-25772,Casa,Multipes Niveles,62,62,Usado,2,2,1,Descubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Caminos de Tarabana,1.0
 43000,VE 23-25768,Casa,Duplex,200,122,Usado,4,4,4,Descubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Trapiche Villas,0.0
 12800,VE 23-25747,Casa,1 Nivel,80,166,Usado,2,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Terrazas de la Ensenada,0.0
@@ -119,11 +207,9 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 350000,VE 23-25739,Casa,Duplex,293,507,Nuevo,3,3,2,Cubierto,4.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Miranda,San Antonio de los Altos,Club de Campo,1.0
 110000,VE 23-25710,Casa,Duplex,287,782,Usado,3,4,4,Descubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Caicaguana,0.0
 115000,VE 23-25709,Casa,Contemporaneo,300,370,Usado,3,5,4,Cubierto,5.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Valles de Camoruco,1.0
-260,VE 23-25707,Casa,1 Nivel,148,148,Usado,3,2,2,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Villa Roca,0.0
 160000,VE 23-25706,Casa,1 Nivel,170,146,Usado,4,3,3,Cubierto,2.0,Si,No,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Guataparo,0.0
 340000,VE 23-25704,Casa,1 Nivel,374,1175,Usado,4,5,5,Cubierto,8.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Guaparo,0.0
 600000,VE 23-25702,Casa,1 Nivel,521,1308,Usado,7,6,4,Descubierto,4.0,No,Si,Calle Ciega,Venezuela,Carabobo,Valencia,Carabobo,2.0
-300,VE 23-25695,Casa,Duplex,62,62,Usado,2,1,1,Descubierto,1.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Caminos de Tarabana,0.0
 180000,VE 23-25684,Casa,Multipes Niveles,510,275,Usado,4,4,3,Cubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Macaracuay,1.0
 300000,VE 23-25679,Casa,Multipes Niveles,600,720,Usado,5,7,6,Cubierto,4.0,Si,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,1.0
 79000,VE 23-25677,Casa,Duplex,283,619,Nuevo,4,4,4,Descubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Caicaguana,0.0
@@ -132,15 +218,15 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 33000,VE 23-25668,Casa,Duplex,270,145,Usado,6,4,4,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Maracay,Santa Rita,0.0
 219000,VE 23-25667,Casa,Multipes Niveles,440,665,Usado,4,4,3,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Marques,1.0
 60000,VE 23-25666,Casa,1 Nivel,235,235,Usado,3,2,2,Cubierto,,No,No,Publica,Venezuela,Miranda,Carrizal,Municipio Carrizal,0.0
-14500,VE 23-25665,Casa,1 Nivel,70,100,Usado,2,2,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Campina,0.0
+13700,VE 23-25665,Casa,1 Nivel,70,100,Usado,2,2,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Campina,0.0
 590000,VE 23-25657,Casa,Multipes Niveles,840,1020,Usado,5,8,8,Cubierto,12.0,Si,Si,Cerrada con Vigilancia,Venezuela,Miranda,San Antonio de los Altos,Parque el Retiro,0.0
 49000,VE 23-25655,Casa,1 Nivel,75,75,Usado,2,2,2,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Lomas de Monte Claro,0.0
 90000,VE 23-25654,Casa,Multipes Niveles,350,400,Usado,4,4,4,Cubierto,6.0,No,No,Publica,Venezuela,Merida,Merida,Zumba,0.0
 200000,VE 23-25644,Casa,Duplex,750,750,Usado,4,5,4,Cubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Los Libertadores,1.0
-95000,VE 23-25642,Casa,1 Nivel,725,725,Usado,5,4,2,Cubierto,8.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Centro,2.0
+79000,VE 23-25642,Casa,1 Nivel,725,725,Usado,5,3,3,Cubierto,9.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Centro,0.0
 77500,VE 23-25641,Casa,Duplex,155,155,Obra Gris,3,2,2,Descubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 77500,VE 23-25639,Casa,Duplex,155,155,Obra Gris,3,2,2,Descubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
-14000,VE 23-25635,Casa,Duplex,138,142,Usado,3,3,2,Descubierto,2.0,No,No,Calle Ciega,Venezuela,Lara,Cabudare,La Montanita,1.0
+12000,VE 23-25635,Casa,Duplex,138,142,Usado,3,3,2,Descubierto,2.0,No,No,Calle Ciega,Venezuela,Lara,Cabudare,La Montanita,1.0
 77500,VE 23-25634,Casa,Duplex,155,155,Obra Gris,3,2,2,Descubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 77500,VE 23-25631,Casa,Duplex,155,155,Nuevo,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 395000,VE 23-25628,Casa,Multipes Niveles,640,575,Usado,4,5,4,Cubierto,,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Marques,1.0
@@ -159,7 +245,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 140000,VE 23-25596,Casa,Colonial,400,200,Usado,4,5,4,Cubierto,6.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Los Caobos,1.0
 85000,VE 23-25594,Casa,Duplex,161,120,Usado,5,4,4,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Santa Rosa,0.0
 150000,VE 23-25582,Casa,Duplex,261,261,Usado,4,3,2,Descubierto,3.0,Parcialmente,Si,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,La Trinidad,1.0
-8500,VE 23-25570,Casa,Duplex,894,894,Usado,4,7,6,Cubierto,4.0,Si,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,1.0
 230000,VE 23-25569,Casa,Multipes Niveles,402,506,Usado,4,5,5,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Las Esmeraldas,0.0
 290000,VE 23-25567,Casa,Multipes Niveles,452,452,Usado,7,7,7,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Caurimare,0.0
 28000,VE 23-25566,Casa,1 Nivel,71,242,Usado,3,2,0,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Palo Negro,El Orticeño,0.0
@@ -175,15 +260,15 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 48000,VE 23-25531,Casa,1 Nivel,275,275,Usado,4,2,2,Cubierto,5.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Fundalara,0.0
 80000,VE 23-25526,Casa,Multipes Niveles,510,350,Usado,3,3,3,Cubierto,3.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Guaicaipuro,0.0
 190000,VE 23-25525,Casa,1 Nivel,680,680,Usado,5,4,4,Cubierto,6.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Sorocaima,0.0
+160000,VE 23-25522,Casa,Duplex,437,348,Usado,8,6,4,Cubierto,5.0,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Marques,2.0
 77500,VE 23-25517,Casa,Duplex,155,155,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 30000,VE 23-25515,Casa,1 Nivel,70,4028,Usado,2,1,1,Cubierto,,No,No,Publica,Venezuela,Falcon,Coro,Centro,0.0
 77500,VE 23-25510,Casa,Duplex,155,155,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 77500,VE 23-25509,Casa,Duplex,155,155,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 130000,VE 23-25508,Casa,Multipes Niveles,358,1313,Usado,5,5,5,Descubierto,5.0,No,No,Publica,Venezuela,Miranda,San Antonio de los Altos,La Morita,0.0
 115000,VE 23-25504,Casa,Duplex,230,230,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
-18000,VE 23-25503,Casa,1 Nivel,117,117,Usado,2,2,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Prados del Golf,0.0
+16000,VE 23-25503,Casa,1 Nivel,117,117,Usado,2,2,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Prados del Golf,0.0
 320000,VE 23-25502,Casa,Multipes Niveles,310,553,Usado,4,4,4,Descubierto,3.0,No,No,Publica,Venezuela,Miranda,San Antonio de los Altos,Parque el Retiro,0.0
-250,VE 23-25495,Casa,1 Nivel,80,200,Usado,3,2,2,Descubierto,5.0,No,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Araure,Llano Alto,0.0
 60000,VE 23-25490,Casa,1 Nivel,360,360,Usado,6,2,2,Ninguno,,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Concepcion,0.0
 36000,VE 23-25487,Casa,Multipes Niveles,203,200,Usado,3,3,3,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Turmero,El Nispero,0.0
 14000,VE 23-25483,Casa,1 Nivel,141,141,Usado,2,2,2,Descubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,El Trigal,0.0
@@ -197,7 +282,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 49000,VE 23-25442,Casa,Duplex,260,260,Usado,4,4,4,Cubierto,,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Aragua,Municipio Linares Alcantara,Las Amazonas,0.0
 220000,VE 23-25441,Casa,1 Nivel,700,1008,Usado,5,6,5,Cubierto,6.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Lomas del Club Hipico,1.0
 120000,VE 23-25439,Casa,Duplex,31870,324,Usado,4,4,4,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Araure,Araure,0.0
-1500,VE 23-25438,Casa,1 Nivel,950,450,Usado,9,9,6,Cubierto,12.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Del Este,3.0
 125000,VE 23-25435,Casa,Multipes Niveles,250,250,Obra Gris,4,3,3,Cubierto,2.0,No,Si,Publica,Venezuela,Merida,Merida,La Pedregosa,0.0
 590000,VE 23-25430,Casa,Multipes Niveles,309,879,Usado,4,5,3,Descubierto,3.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Cumbres de Curumo,2.0
 13500,VE 23-25422,Casa,1 Nivel,131,131,Usado,3,2,2,Cubierto,1.0,No,No,Cerrada con Vigilancia,Venezuela,Miranda,Guatire,El Castillejo,0.0
@@ -216,7 +300,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 80000,VE 23-25381,Casa,1 Nivel,200,151,Usado,4,3,3,Cubierto,4.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Santa Ines,0.0
 120000,VE 23-25377,Casa,Multipes Niveles,980,2800,Usado,7,6,6,Cubierto,2.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Miranda,Municipio Guaicaipuro,Parcelamiento Cortada del guayabo,0.0
 37000,VE 23-25374,Casa,Multipes Niveles,300,150,Usado,5,4,4,Cubierto,,No,No,Calle Ciega,Venezuela,Falcon,Coro,Centro,0.0
-500,VE 23-25368,Casa,1 Nivel,250,763,Usado,1,1,1,Cubierto,4.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Catedral,0.0
 150000,VE 23-25361,Casa,Duplex,159,2,Usado,4,2,2,Descubierto,3.0,Si,No,Publica,Venezuela,Merida,Merida,Apartaderos,0.0
 30000,VE 23-25359,Casa,1 Nivel,200,200,Usado,3,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Lara,Cabudare,Capaupel,0.0
 690000,VE 23-25356,Casa,Duplex,757,757,Usado,3,3,3,Cubierto,5.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
@@ -226,7 +309,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 40000,VE 23-25343,Casa,Multipes Niveles,150,2845,Usado,3,4,3,Descubierto,8.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Gavilan,1.0
 280000,VE 23-25338,Casa,Multipes Niveles,420,764,Usado,4,5,4,Descubierto,5.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,El Peñon,1.0
 96000,VE 23-25337,Casa,Duplex,300,450,Usado,4,4,3,Cubierto,3.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Colinas de las Acacias,1.0
-950000,VE 23-25336,Casa,Multipes Niveles,1335,1335,Usado,5,10,7,Cubierto,8.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,3.0
+950000,VE 23-25336,Casa,Multipes Niveles,1335,1335,Usado,5,11,8,Cubierto,8.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,3.0
 13000,VE 23-25333,Casa,Duplex,300,200,Usado,6,4,4,Cubierto,4.0,No,Si,Calle Ciega,Venezuela,Lara,Barquisimeto,Parroquia El Cuji,0.0
 23000,VE 23-25330,Casa,1 Nivel,200,200,Usado,3,2,2,Descubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,El Valle,0.0
 120000,VE 23-25326,Casa,1 Nivel,360,360,Usado,4,4,4,Cubierto,,Parcialmente,No,Publica,Venezuela,Lara,Barquisimeto,Barici,0.0
@@ -239,6 +322,7 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 35000,VE 23-25303,Casa,Duplex,78,133,Usado,3,2,2,Descubierto,1.0,Si,No,Cerrada con Vigilancia,Venezuela,Miranda,Guatire,El Ingenio,0.0
 20000,VE 23-25302,Casa,1 Nivel,200,200,Usado,3,2,2,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Villas de Yara,0.0
 450000,VE 23-25282,Casa,Multipes Niveles,350,3691,Usado,3,5,3,Cubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,2.0
+20000,VE 23-25277,Casa,1 Nivel,162,162,Usado,3,2,2,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Bella Vista Plaza,0.0
 280000,VE 23-25266,Casa,Multipes Niveles,600,530,Usado,5,4,4,Descubierto,5.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Oripoto,0.0
 90000,VE 23-25262,Casa,Multipes Niveles,205,205,Usado,9,4,4,Cubierto,2.0,No,Si,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,La Paz,0.0
 15000,VE 23-25256,Casa,1 Nivel,153,153,Usado,3,1,1,Cubierto,3.0,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia El Cuji,0.0
@@ -258,7 +342,6 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 120000,VE 23-25209,Casa,1 Nivel,211,275,Usado,3,3,3,Cubierto,,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Santa Cecilia,0.0
 16000,VE 23-25204,Casa,Multipes Niveles,343,172,Usado,3,4,3,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Corralito,1.0
 16000,VE 23-25201,Casa,Duplex,95,108,Nuevo,3,3,2,Descubierto,1.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Piedad Norte,1.0
-800,VE 23-25194,Casa,Multipes Niveles,313,510,Usado,5,5,5,Cubierto,4.0,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Judibana,0.0
 160000,VE 23-25193,Casa,Multipes Niveles,213,510,Usado,5,5,5,Cubierto,4.0,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Judibana,0.0
 30000,VE 23-25190,Casa,1 Nivel,127,146,Usado,4,4,4,Cubierto,4.0,No,No,Publica,Venezuela,Lara,Cabudare,La Montanita,0.0
 24000,VE 23-25186,Casa,1 Nivel,170,360,Usado,4,3,3,Cubierto,2.0,No,No,Publica,Venezuela,Falcon,Coro,Centro,0.0
@@ -276,86 +359,3 @@ Precio,Codígo RAH,Tipo de Propiedad,Estilo,Área Privada,Terreno,Estado Del Inm
 150000,VE 23-25154,Casa,Multipes Niveles,380,380,Usado,7,6,6,Descubierto,4.0,Parcialmente,No,Publica,Venezuela,Lara,Barquisimeto,Centro,0.0
 400000,VE 23-25153,Casa,Multipes Niveles,1100,780,Usado,11,14,11,Cubierto,6.0,No,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Los Libertadores,3.0
 120000,VE 23-25152,Casa,1 Nivel,747,747,Usado,4,3,3,Cubierto,,No,No,Publica,Venezuela,Aragua,Maracay,El Hipodromo,0.0
-28000,VE 23-25149,Casa,1 Nivel,627,627,Usado,8,6,6,Descubierto,10.0,No,No,Publica,Venezuela,Zulia,Cabimas,R-10,0.0
-200000,VE 23-25141,Casa,1 Nivel,464,463,Usado,3,1,1,Descubierto,1.0,No,No,Publica,Venezuela,Lara,Cabudare,Centro,0.0
-55000,VE 23-25136,Casa,1 Nivel,120,428,Usado,3,2,2,Cubierto,,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Puerta Maraven,0.0
-57000,VE 23-25126,Casa,1 Nivel,104,202,Usado,3,3,2,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Miranda,Guatire,El Castillejo,1.0
-500,VE 23-25098,Casa,1 Nivel,216,216,Usado,3,3,2,Descubierto,5.0,Si,No,Publica,Venezuela,Lara,Cabudare,Agua Viva,1.0
-58000,VE 23-25097,Casa,1 Nivel,105,210,Usado,4,3,3,Cubierto,,Si,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Vista Verde,0.0
-300000,VE 23-25096,Casa,Duplex,400,400,Usado,5,5,5,Cubierto,4.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Santa Monica,0.0
-37000,VE 23-25081,Casa,1 Nivel,216,216,Usado,3,3,2,Descubierto,5.0,Si,No,Publica,Venezuela,Lara,Cabudare,Agua Viva,1.0
-130000,VE 23-25070,Casa,Duplex,18050,180,Usado,4,4,3,Descubierto,2.0,Si,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Ciudad Roca,1.0
-250,VE 23-25068,Casa,1 Nivel,150,150,Usado,7,4,4,Cubierto,,No,No,Publica,Venezuela,Lara,Barquisimeto,Parroquia Concepcion,0.0
-150000,VE 23-25064,Casa,Colonial,838,838,Usado,5,5,5,Cubierto,4.0,No,No,Publica,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
-21000,VE 23-25056,Casa,1 Nivel,156,156,Usado,3,2,2,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
-14000,VE 23-25053,Casa,1 Nivel,172,172,Usado,3,2,2,Cubierto,,No,No,Publica,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
-27000,VE 23-25040,Casa,Duplex,231,530,Usado,4,3,3,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Piedad Norte,0.0
-21000,VE 23-25035,Casa,1 Nivel,130,130,Usado,3,3,3,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Mora,0.0
-160000,VE 23-25029,Casa,1 Nivel,582,582,Usado,8,9,9,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Colinas De Santa Rosa,0.0
-160000,VE 23-25021,Casa,1 Nivel,313,510,Usado,5,5,5,Cubierto,,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Judibana,0.0
-800,VE 23-25020,Casa,1 Nivel,313,510,Usado,4,5,5,Cubierto,,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Judibana,0.0
-190000,VE 23-25014,Casa,Multipes Niveles,360,396,Usado,6,6,5,Descubierto,6.0,Parcialmente,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Alta Florida,1.0
-310000,VE 23-25005,Casa,Duplex,365,467,Usado,4,4,4,Cubierto,2.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Santa Paula,0.0
-285000,VE 23-25002,Casa,1 Nivel,800,400,Usado,5,4,4,Cubierto,3.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Santa Monica,0.0
-32000,VE 23-24999,Casa,1 Nivel,91,250,Usado,3,2,2,Descubierto,3.0,No,No,Publica,Venezuela,Falcon,Coro,Sector Los Perozos,0.0
-25000,VE 23-24985,Casa,1 Nivel,85,120,Usado,3,3,3,Cubierto,2.0,Parcialmente,No,Publica,Venezuela,Falcon,Coro,Las Delicias,0.0
-28000,VE 23-24980,Casa,Multipes Niveles,93,93,Usado,3,3,2,Cubierto,1.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Caminos de Tarabana,1.0
-15000,VE 23-24978,Casa,1 Nivel,69,153,Usado,3,1,1,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Parroquia Tamaca,0.0
-200000,VE 23-24974,Casa,1 Nivel,948,948,Usado,5,3,3,Cubierto,6.0,Parcialmente,Si,Publica,Venezuela,Falcon,Punto Fijo,Santa Fe,0.0
-30000,VE 23-24973,Casa,1 Nivel,100,216,Usado,3,2,2,Cubierto,3.0,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Puerta Maraven,0.0
-35000,VE 23-24957,Casa,1 Nivel,750,750,Usado,4,4,4,Cubierto,3.0,Parcialmente,No,Publica,Venezuela,Distrito Metropolitano,Caracas,El Junquito,0.0
-160,VE 23-24956,Casa,1 Nivel,99,144,Usado,3,2,2,Descubierto,2.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Hacienda Yucatan,0.0
-350000,VE 23-24955,Casa,Multipes Niveles,500,1045,Usado,7,7,6,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Prados del Este,1.0
-20000,VE 23-24946,Casa,1 Nivel,226,226,Usado,3,2,2,Cubierto,3.0,No,No,Calle Ciega,Venezuela,Lara,Cabudare,Valle Hondo,0.0
-39000,VE 23-24942,Casa,1 Nivel,203,200,Nuevo,3,2,2,Cubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Turmero,El Nispero,0.0
-325000,VE 23-24926,Casa,Duplex,450,450,Usado,6,6,6,Descubierto,7.0,Parcialmente,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Santa Monica,0.0
-40000,VE 23-24925,Casa,Duplex,114,344,Usado,3,4,4,Cubierto,3.0,Parcialmente,No,Publica,Venezuela,Carabobo,Municipio San Diego,Morro II,0.0
-69000,VE 23-24921,Casa,1 Nivel,28556,285,Usado,3,3,3,Cubierto,,No,No,Cerrada con Vigilancia,Venezuela,Portuguesa,Araure,Llano Alto,0.0
-250,VE 23-24918,Casa,1 Nivel,102,102,Usado,2,1,1,Cubierto,1.0,Si,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,La Puerta,0.0
-24000,VE 23-24912,Casa,Duplex,101,101,Usado,4,2,2,Cubierto,2.0,No,No,Publica,Venezuela,Carabobo,Valencia,Los Caobos,0.0
-850,VE 23-24909,Casa,Duplex,130,85,Usado,3,3,2,Descubierto,1.0,Si,No,Cerrada con Vigilancia,Venezuela,Anzoategui,Lecheria,Complejo Turistico EL Morro,1.0
-40000,VE 23-24907,Casa,1 Nivel,30840,308,Usado,3,3,3,Cubierto,4.0,Si,No,Publica,Venezuela,Lara,Tocuyo,Municipio Moran,0.0
-70000,VE 23-24906,Casa,Multipes Niveles,127,150,Usado,3,3,3,Cubierto,2.0,Si,No,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Monte Claro,0.0
-295000,VE 23-24903,Casa,Multipes Niveles,340,405,Usado,3,3,2,Cubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Santa Monica,1.0
-110000,VE 23-24878,Casa,1 Nivel,330,330,Usado,3,3,3,Cubierto,3.0,No,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Montalban I,0.0
-85000,VE 23-24875,Casa,Casas de Playa,250,2165,Usado,5,4,4,Cubierto,5.0,Si,Si,Cerrada con Vigilancia,Venezuela,Miranda,Higuerote,Ciubalgue,0.0
-45000,VE 23-24874,Casa,1 Nivel,290,659,Usado,4,4,4,Descubierto,10.0,Si,Si,Publica,Venezuela,Zulia,Maracaibo,Cantaclaro,0.0
-75000,VE 23-24861,Casa,Colonial,763,763,Usado,4,5,4,Cubierto,6.0,No,Si,Publica,Venezuela,Lara,Barquisimeto,Centro,1.0
-18000,VE 23-24859,Casa,Duplex,132,106,Usado,3,2,2,Descubierto,2.0,No,No,Publica,Venezuela,Lara,Duaca,Municipio Crespo,0.0
-50000,VE 23-24856,Casa,1 Nivel,220,220,Usado,5,6,5,Cubierto,3.0,Parcialmente,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Villa Amanecer,1.0
-1250000,VE 23-24854,Casa,Duplex,617,1200,Usado,5,7,7,Cubierto,12.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Colinas de Bello Monte,0.0
-760000,VE 23-24853,Casa,Multipes Niveles,650,1800,Usado,5,6,5,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,El Cafetal,1.0
-150000,VE 23-24838,Casa,Duplex,350,530,Usado,3,4,4,Cubierto,,Parcialmente,Si,Calle Ciega,Venezuela,Distrito Metropolitano,Caracas,Montalban I,0.0
-75000,VE 23-24832,Casa,1 Nivel,330,380,Usado,4,6,5,Cubierto,4.0,Parcialmente,No,Publica,Venezuela,Falcon,Punto Fijo,Judibana,1.0
-15000,VE 23-24827,Casa,Multipes Niveles,347,780,Nuevo,6,6,6,Cubierto,4.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Naranjos del Cafetal,0.0
-70000,VE 23-24821,Casa,1 Nivel,296,298,Usado,4,4,4,Cubierto,5.0,Parcialmente,No,Calle Ciega,Venezuela,Aragua,Cagua,Fundacagua,0.0
-100000,VE 23-24817,Casa,Multipes Niveles,589,656,Usado,5,7,6,Descubierto,7.0,No,Si,Publica,Venezuela,Miranda,Guarenas,Guarenas,1.0
-50000,VE 23-24816,Casa,1 Nivel,360,661,Usado,4,3,3,Descubierto,5.0,No,No,Publica,Venezuela,Aragua,Maracay,El Limon,0.0
-70000,VE 23-24814,Casa,Duplex,470,200,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,Avenida los Proceres,0.0
-60000,VE 23-24812,Casa,Duplex,200,200,Obra Gris,3,2,2,Cubierto,1.0,No,Si,Publica,Venezuela,Merida,Merida,Avenida los Proceres,0.0
-69000,VE 23-24809,Casa,Duplex,295,295,Usado,5,3,3,Cubierto,4.0,Si,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,La Rosaleda,0.0
-60000,VE 23-24808,Casa,Duplex,200,200,Obra Gris,3,2,2,Cubierto,1.0,No,No,Publica,Venezuela,Merida,Merida,Avenida los Proceres,0.0
-47000,VE 23-24807,Casa,Duplex,1300,2624,Usado,6,3,3,Cubierto,4.0,No,Si,Publica,Venezuela,Lara,Cabudare,La Campina,0.0
-75000,VE 23-24801,Casa,1 Nivel,408,247,Usado,5,3,3,Cubierto,5.0,No,Si,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Trigal Norte,0.0
-24000,VE 23-24798,Casa,1 Nivel,153,153,Usado,3,3,3,Descubierto,,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Horizonte,0.0
-48000,VE 23-24794,Casa,Duplex,237,237,Usado,4,5,5,Cubierto,4.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Cabudare,Cana Dorada,0.0
-445000,VE 23-24793,Casa,Multipes Niveles,400,450,Usado,4,4,3,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Santa Sofia,1.0
-63000,VE 23-24791,Casa,1 Nivel,375,240,Usado,4,2,2,Cubierto,3.0,No,Si,Publica,Venezuela,Merida,Merida,El Carrizal,0.0
-350000,VE 23-24784,Casa,1 Nivel,700,2681,Usado,5,5,4,Cubierto,6.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,La Lagunita Country Club,1.0
-35000,VE 23-24782,Casa,Duplex,240,293,Usado,4,5,4,Cubierto,4.0,No,No,Publica,Venezuela,Lara,Cabudare,El Recreo,1.0
-190000,VE 23-24770,Casa,Multipes Niveles,330,350,Usado,3,3,3,Cubierto,4.0,No,Si,Publica,Venezuela,Distrito Metropolitano,Caracas,Alto Prado,0.0
-280000,VE 23-24768,Casa,1 Nivel,434,600,Usado,4,5,4,Cubierto,3.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Miranda,1.0
-20000,VE 23-24764,Casa,1 Nivel,80,384,Usado,2,1,1,Cubierto,,No,No,Publica,Venezuela,Falcon,Tucacas,Santa Rosa,0.0
-160000,VE 23-24762,Casa,Multipes Niveles,566,771,Usado,7,7,5,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,La Trigaleña,2.0
-800000,VE 23-24760,Casa,Duplex,546,869,Usado,6,6,6,Cubierto,5.0,Si,Si,Cerrada con Vigilancia,Venezuela,Carabobo,Valencia,Altos de Guataparo,0.0
-110000,VE 23-24752,Casa,Duplex,235,235,Usado,5,5,4,Cubierto,3.0,No,Si,Cerrada con Vigilancia,Venezuela,Carabobo,Municipio Naguanagua,Ciudad Jardin Manongo,1.0
-230000,VE 23-24748,Casa,1 Nivel,300,316,Usado,3,4,3,Cubierto,5.0,Parcialmente,No,Publica,Venezuela,Distrito Metropolitano,Caracas,Colinas de Los Chaguaramos,1.0
-40000,VE 23-24737,Casa,1 Nivel,71,108,Usado,3,3,2,Descubierto,2.0,No,No,Cerrada con Vigilancia,Venezuela,Aragua,Cagua,La Trinidad,1.0
-146000,VE 23-24736,Casa,1 Nivel,505,505,Usado,6,4,3,Cubierto,8.0,No,Si,Cerrada con Vigilancia,Venezuela,Aragua,Maracay,San Jacinto,1.0
-250000,VE 23-24728,Casa,1 Nivel,236,1003,Usado,4,4,4,Descubierto,10.0,Parcialmente,Si,Calle Ciega,Venezuela,Aragua,La Colonia Tovar,La Colonia Tovar,0.0
-85000,VE 23-24724,Casa,1 Nivel,400,200,Usado,4,5,5,Cubierto,3.0,Parcialmente,Si,Publica,Venezuela,Aragua,Maracay,Las Cayenas,0.0
-70000,VE 23-24720,Casa,1 Nivel,183,163,Nuevo,3,4,3,Cubierto,3.0,No,No,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,Colinas del Viento,1.0
-400000,VE 23-24718,Casa,Multipes Niveles,600,1098,Usado,4,4,4,Cubierto,6.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Miranda,San Antonio de los Altos,Club de Campo,0.0
-270000,VE 23-24712,Casa,Duplex,375,375,Usado,3,5,4,Cubierto,2.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Distrito Metropolitano,Caracas,Los Pomelos,1.0
-90000,VE 23-24704,Casa,Duplex,330,330,Obra Gris,3,3,2,Cubierto,2.0,No,Si,Cerrada con Vigilancia,Venezuela,Merida,Merida,Avenida los Proceres,1.0
-220000,VE 23-24702,Casa,Duplex,254,254,Usado,6,6,6,Descubierto,6.0,Parcialmente,Si,Cerrada con Vigilancia,Venezuela,Lara,Barquisimeto,La Rosaleda,0.0
